@@ -80,7 +80,7 @@ const getMessage = (lang, type) => {
       start: `
 🌟 Selamat datang di *TikTok Downloader Bot*! 🌟
 Saya akan membantu Anda mengunduh video, audio, atau foto TikTok tanpa watermark. Kirim **Hanya** tautan TikTok yang valid, seperti:
-https://vt.tiktok.com/ZS2qsMU1W/
+https://vt.tiktok.com/ZSkGPK9Kj/
 Jangan tambahkan teks lain sebelum atau sesudah tautan.
 
 📌 *Cara Mendapatkan Tautan*:
@@ -95,7 +95,7 @@ Pilih bahasa: *id*, *en*, atau *zh*`,
       help: `
 📚 *Panduan Penggunaan Bot* 📚
 Saya di sini untuk membantu Anda mengunduh konten TikTok. Kirim **Hanya** tautan TikTok tanpa teks tambahan, seperti:
-https://vt.tiktok.com/ZS2qsMU1W/
+https://vt.tiktok.com/ZSkGPK9Kj/
 
 ✨ *Fitur*:
 - Unduh video TikTok tanpa watermark.
@@ -115,7 +115,7 @@ Kirim **Hanya** tautan TikTok sekarang! Atau pilih bahasa: *id*, *en*, atau *zh*
       runtime: '🕒 Bot sudah aktif selama: {hours} jam, {minutes} menit, {seconds} detik.',
       invalid_url: `
 Maaf, tautan yang Anda kirim bukan tautan TikTok yang valid. Pastikan tautan dari TikTok, seperti:
-https://vt.tiktok.com/ZS2qsMU1W/
+https://vt.tiktok.com/ZSkGPK9Kj/
 Kirim **Hanya** tautan tanpa teks tambahan.
 
 📌 *Cara Memperbaiki*:
@@ -127,7 +127,7 @@ Kirim **Hanya** tautan tanpa teks tambahan.
 Kirim **Hanya** tautan TikTok yang valid sekarang!`,
       strict_link_only: `
 Maaf, Anda **Hanya** boleh mengirim tautan TikTok tanpa teks tambahan, seperti:
-https://vt.tiktok.com/ZS2qsMU1W/
+https://vt.tiktok.com/ZSkGPK9Kj/
 Jangan tambahkan teks sebelum atau sesudah tautan.
 
 📌 *Cara Memperbaiki*:
@@ -143,7 +143,7 @@ Maaf, ada masalah saat memproses tautan Anda. Mungkin tautan salah atau ada masa
 
 📌 *Cara Memperbaiki*:
 1. Pastikan tautan dari TikTok, seperti:
-   https://vt.tiktok.com/ZS2qsMU1W/
+   https://vt.tiktok.com/ZSkGPK9Kj/
 2. Salin ulang tautan.
 3. Tempel **Hanya** tautan tanpa teks tambahan.
 
@@ -162,7 +162,7 @@ Kirim **Hanya** tautan TikTok sekarang!`,
       start: `
 🌟 Welcome to *TikTok Downloader Bot*! 🌟
 I’m here to help you download TikTok videos, audio, or photos without watermarks. Send **ONLY** a valid TikTok link, like:
-https://vt.tiktok.com/ZS2qsMU1W/
+https://vt.tiktok.com/ZSkGPK9Kj/
 Do not include any text before or after the link.
 
 📌 *How to Get the Link*:
@@ -177,7 +177,7 @@ Choose language: *id*, *en*, or *zh*`,
       help: `
 📚 *How to Use the Bot* 📚
 I’m here to help you download TikTok content. Send **ONLY** a TikTok link without extra text, like:
-https://vt.tiktok.com/ZS2qsMU1W/
+https://vt.tiktok.com/ZSkGPK9Kj/
 
 ✨ *Features*:
 - Download TikTok videos without watermarks.
@@ -197,7 +197,7 @@ Send **ONLY** a TikTok link now! Or choose language: *id*, *en*, or *zh*`,
       runtime: '🕒 Bot has been active for: {hours} hours, {minutes} minutes, {seconds} seconds.',
       invalid_url: `
 Sorry, the link you sent isn’t a valid TikTok link. Ensure it’s from TikTok, like:
-https://vt.tiktok.com/ZS2qsMU1W/
+https://vt.tiktok.com/ZSkGPK9Kj/
 Send **ONLY** the link without extra text.
 
 📌 *How to Fix*:
@@ -209,7 +209,7 @@ Send **ONLY** the link without extra text.
 Send **ONLY** a valid TikTok link now!`,
       strict_link_only: `
 Sorry, you must send **ONLY** the TikTok link without extra text, like:
-https://vt.tiktok.com/ZS2qsMU1W/
+https://vt.tiktok.com/ZSkGPK9Kj/
 Do not add text before or after the link.
 
 📌 *How to Fix*:
@@ -225,7 +225,7 @@ Sorry, there was an issue processing your link. It could be an invalid link or n
 
 📌 *How to Fix*:
 1. Ensure the link is from TikTok, like:
-   https://vt.tiktok.com/ZS2qsMU1W/
+   https://vt.tiktok.com/ZSkGPK9Kj/
 2. Copy the link again.
 3. Paste **ONLY** the link without extra text.
 
@@ -244,7 +244,7 @@ Send **ONLY** a TikTok link now!`,
       start: `
 🌟 欢迎使用 *TikTok下载机器人*! 🌟
 我将帮助您下载TikTok的无水印视频、音频或照片。请**仅**发送有效的TikTok链接，例如：
-https://vt.tiktok.com/ZS2qsMU1W/
+https://vt.tiktok.com/ZSkGPK9Kj/
 不要在链接前后添加任何文本。
 
 📌 *如何获取链接*：
@@ -259,7 +259,7 @@ https://vt.tiktok.com/ZS2qsMU1W/
       help: `
 📚 *如何使用机器人* 📚
 我在这里帮助您下载TikTok内容。请**仅**发送TikTok链接，不带额外文本，例如：
-https://vt.tiktok.com/ZS2qsMU1W/
+https://vt.tiktok.com/ZSkGPK9Kj/
 
 ✨ *功能*：
 - 下载无水印TikTok视频。
@@ -279,7 +279,7 @@ https://vt.tiktok.com/ZS2qsMU1W/
       runtime: '🕒 机器人已运行：{hours}小时，{minutes}分钟，{seconds}秒。',
       invalid_url: `
 抱歉，您发送的链接不是有效的TikTok链接。请确保链接来自TikTok，例如：
-https://vt.tiktok.com/ZS2qsMU1W/
+https://vt.tiktok.com/ZSkGPK9Kj/
 **仅**发送链接，不带额外文本。
 
 📌 *如何修复*：
@@ -291,7 +291,7 @@ https://vt.tiktok.com/ZS2qsMU1W/
 现在**仅**发送有效的TikTok链接！`,
       strict_link_only: `
 抱歉，您必须**仅**发送TikTok链接，不带额外文本，例如：
-https://vt.tiktok.com/ZS2qsMU1W/
+https://vt.tiktok.com/ZSkGPK9Kj/
 不要在链接前后添加文本。
 
 📌 *如何修复*：
@@ -307,7 +307,7 @@ https://vt.tiktok.com/ZS2qsMU1W/
 
 📌 *如何修复*：
 1. 确保链接来自TikTok，例如：
-   https://vt.tiktok.com/ZS2qsMU1W/
+   https://vt.tiktok.com/ZSkGPK9Kj/
 2. 再次复制链接。
 3. **仅**粘贴链接，不带额外文本。
 

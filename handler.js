@@ -4,7 +4,7 @@ const tiktok_photo = require('./plugins/tiktok_photo');
 
 async function handler(bot, msg) {
   const From = msg.chat.id;
-  const body = /^https:\/\/.*tiktok\.com\/.+/;
+  const body = /^https:\/\/(?:[\w-]+\.)?tiktok\.com\/.+/;
 
   if (body.test(msg.text)) {
     const url = msg.text;

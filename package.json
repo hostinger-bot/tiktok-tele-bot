@@ -5,15 +5,17 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "dev": "nodemon index.js"
+    "start:prod": "node index.js",
+    "test": "nodemon index.js"
   },
   "author": "Tio",
-  "license": "MIT",
+  "license": "ISC",
   "engines": {
-    "node": "18.x"
+    "node": ">=20.18.1"
   },
   "dependencies": {
-    "btch-downloader": "*",
+    "axios": "^1.12.2",
+    "btch-downloader": "^6.0.17",
     "chalk": "^4.1.1",
     "express": "^4.18.2",
     "node-telegram-bot-api": "^0.61.0"

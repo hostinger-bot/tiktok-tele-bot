@@ -1,6 +1,6 @@
 const express = require('express');
 const { PORT } = require('./config');
-const { bot } = require('./main');
+require('./main');
 
 const app = express();
 

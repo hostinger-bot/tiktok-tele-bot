@@ -7,8 +7,25 @@ const handler = require('./handler');
 const { URL } = require('url');
 const allowedTikTokHosts = [
   'tiktok.com',
- 'www.tiktok.com',
- 'vt.tiktok.com'
+  'www.tiktok.com',
+  'm.tiktok.com',
+  'vt.tiktok.com',
+  'vm.tiktok.com',
+  'tiktokv.com',
+  'vm.tiktokv.com',
+  'vt.tiktokv.com',
+  'tx.tiktok.com',
+  'www.tx.tiktok.com',
+  'lf16-tiktok-common.ttcdn.com',
+  'lf77-tiktok-common.ttcdn.com',
+  'app.tiktok.com',
+  'm.app.tiktok.com',
+  'click.tiktok.com',
+  's.tiktok.com',
+  'us.tiktok.com',
+  'music.tiktok.com',
+  'live.tiktok.com',
+  'www.live.tiktok.com'
 ];
 
 const bot = new TelegramBot(BOT_TOKEN, { polling: true });

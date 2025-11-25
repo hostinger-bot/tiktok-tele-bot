@@ -34,7 +34,7 @@ async function tiktok_photo(bot, msg, data) {
     });
 
   } catch (error) {
-    await bot.sendMessage(From, { text: 'Gagal mengirim foto TikTok.' });
+    await bot.sendMessage(From, { text: 'Sorry, an error occurred while sending the TikTok photo.' });
     console.error(`[PHOTO ERROR] ${From}:`, error.message);
   }
 }
